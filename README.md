@@ -42,8 +42,6 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 ## Program:
-# Develpoed by:Harini M D
-# Resgitor no:2122222230043
 
 ```
 class VacuumCleanerAgent:
